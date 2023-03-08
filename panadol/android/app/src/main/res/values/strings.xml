@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">panadol</string>
+    <string name="facebook_app_id">591072522779179</string>
+    <string name="fb_login_protocol_scheme">fb8625fd5f84f20ac5e47dcd244cb3c5a9</string>
+    <string name="facebook_client_token">ac0b92ff7496cd0aabce0d4210977e90</string>
+</resources>

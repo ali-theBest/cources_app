@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "567318524072",
+    "project_id": "panadol-93bfb",
+    "storage_bucket": "panadol-93bfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567318524072:android:4e04ff7b5a1baeddde929d",
+        "android_client_info": {
+          "package_name": "com.freelance.panadol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567318524072-iom7cdfla3psphgrnms36t0oh7mk3eko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.freelance.panadol",
+            "certificate_hash": "3415a750376094302109da47ab68d01724961b2d"
+          }
+        },
+        {
+          "client_id": "567318524072-hemkpkt4o44rjfk7tcot3c39nvc48m7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGcfoRXjswk0LZl7u9EZqGMe76EsIkRH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567318524072-hemkpkt4o44rjfk7tcot3c39nvc48m7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

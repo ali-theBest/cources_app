@@ -1,0 +1,430 @@
+{  
+   "dearMeOneDayIwillMake/n youProud": "Dear me one day i will make /n you proud",
+    "@dearMeOneDayIwillMake": {
+      "description":"Motivation for the student"
+    }, 
+
+     "createAnAccount": "Create an account",
+    "@createAnAccount": {
+      "description":"Createing an account for student"
+    },
+
+     "logInAgain": "Login again",
+    "@logInAgain": {
+      "description":"login another one to register"
+    },
+
+     "chooseFromTheAccountsSavedOnTheDevice": "Chosse from the account saved on device",
+    "@chooseFromTheAccountsSavedOnTheDevice": {
+      "description":"chosse an account which you have saved on phone"
+    },
+    
+     "addAnotherAccount": "Add another account",
+    "@addAnotherAccount": {
+      "description":"Add another account to register"
+    },
+
+     "mangeAccounts": "Mange account",
+    "@mangeAccounts": {
+      "description":"Manage account to make changes on it"
+    },
+
+     "addFirstName": "Add first name",
+    "@addFirstName": {
+      "description":"hint to user to add his first name"
+    },
+    
+    "firstName": "First name",
+    "@firstName": {
+      "description":"user first name"
+    },
+
+    "lastName":"last name",
+    "@lastName":{
+      "description":"user last name "
+    },
+
+    "addLastName": "Add last name",
+    "@addLastName": {
+      "description":"hint to user to add his last name"
+    },
+
+    "phoneNumber":"phone number",
+    "@phoneNumber":{
+      "description":"user phone number"
+    },
+
+    "addMobileNumber": "Add mobile number",
+    "@AddFirstName": {
+      "description":"hint to user to add his phone number"
+    },
+
+    "password": "Password",
+    "@password": {
+      "description":"just the word password"
+    },
+
+    "addPassword": "Add password",
+    "@addPassword": {
+      "description":"hint to user to add his Password"
+    },
+     "confirmPassword": "Confirm password",
+    "@confirmPassword": {
+      "description":"hint to user to Confirm his Password"
+    },
+    
+    
+    "login":"Log in",
+    "@login":{
+      "description":"start login your phone"
+    },
+    "anotherWayToLogin":"or log in using ",
+    "@anotherWayToLogin":{
+      "description":"start login with another way"
+    },
+    "add":"add",
+    "@add":{
+      "description":"just the word add"
+    },
+    "addProfilePhoto":"add profile photo",
+    "@addProfilePhoto":{
+      "description":"adding the profile photo of the user"
+    },
+    "registration":"registration",
+    "@registration":{
+      "description":"just register word"
+    },
+    "registerCode":"enter the otp code",
+    "@registerCode":{
+      "description":"code of register"
+    },
+    "codeSent":"we sent you a code from 6 numbers to this phone number:",
+    "@codeSent":{
+      "description":"code of registration sent to the user number"
+    },
+    "codeDidNotArrive":"Code did't sent ?",
+    "@codeDidNotArrive":{
+      "description":"code of registration need to resend to the user number"
+    },
+    "resendCode":"resend the code ",
+    "@resendCode":{
+      "description":"code of registration need to resend to the user number"
+    },
+    "or":"or",
+    "@or":{
+      "description":"just the word or"
+    },
+    "registerWithAccount":"register with your account",
+    "@registerWithAccount":{
+      "description":"register with account instead of the phone number"
+    },
+    "next":"next",
+    "@next":{
+      "description":"just the word next"
+    },
+    "skip":"Skip",
+    "@skip":{
+      "description":"just the word skip"
+    },
+    "notEmpty":"can not be empty",
+    "@notEmpty":{
+      "description":"for the text fields which can't be null"
+    },
+    "learningReason":"What is your learning reason",
+    "@learningReason":{
+      "description":"the reason which for the user learns ?"
+    },
+    "towQuestionsForHelp":"just answer two questions to help us get suitable courses for your goal",
+    "@towQuestionsForHelp":{
+      "description":"two questions for help the app two get a suitable courses"
+    },
+    "jobGoal":"what is your job goal",
+    "@jobGoal":{
+      "description":"get the use job goal"
+    },
+    "newJob":"Start a new position",
+    "@newJob":{
+      "description":"start a new position"
+    },
+    "evoluteInJob":"evaluate your current job",
+    "@evoluteInJob":{
+      "description":"evaluate your current job"
+    },
+    "becomeAManger":"evaluate to become a manger",
+    "@becomeAManger":{
+      "description":"evaluate to become a manger"
+    },
+    "gainExperience":"gain the maximum amount of experience",
+    "@gainExperience":{
+      "description":"gain experience"
+    },
+    "jobSearch":"search for your job",
+    "@jobSearch":{
+      "description":"make the user search for his job"
+    },
+    "learningJob":"What is the job you learn for ",
+    "@learningJob":{
+      "description":"the job which for the user learn"
+    },
+    "mostFamous":"The most famous fields",
+    "@mostFamous":{
+      "description":"the most famous fields "
+    },
+    "yourAnswers":"your answers",
+    "@yourAnswers":{
+      "description":"the answers which the user entered for his data"
+    },
+    "edit":"edit",
+    "@edit":{
+      "description":"the word edit"
+    }
+    "mostViewedCourses":"Most viewed courses",
+    "@mostViewedCourses":{
+      "description":"the most viewed courses "
+    },
+    "mostPopularCourses":"Most popular courses",
+    "@mostPopularCourses":{
+      "description":"most popular courses "
+    },
+    "categories":"Categories",
+    "@categories":{
+      "description":"Just word categories "
+    },
+    "latestCourses":"Latest courses",
+    "@latestCourses":{
+      "description":"mmost lates cources"
+    },
+
+    "highestRatedCourses":"Highest related courses",
+    "@latestCourses":{
+      "description":"most related courses"
+    },
+    "courses":"Courses",
+    "@courses":{
+      "description":"just word courses"
+    },
+    "books":"Books",
+    "@books":{
+      "description":"just word books"
+    },
+    "articles":"Articles",
+    "@articles":{
+      "description":"just word articles"
+    },
+    "tests":"Tests",
+    "@tests":{
+      "description":"just word tests"
+    },
+    "myAccount":"My acccount",
+    "@myAccount":{
+      "description":"account of user"
+    },
+    "mostViewedBooks":"Most viewed books",
+    "@mostViewedBooks":{
+      "description":"Most visited books to read"
+    },
+    "mostPopularBooks":"Most popular books",
+    "@theMostPopularBooks":{
+      "description":"most famous books that selling"
+    },
+    "categories":"Categories",
+    "@categories":{
+      "description":"just word categories"
+    },
+    "latestBooks":"Lates books",
+    "@LatestBooks":{
+      "description":"most recentley books"
+    },
+    "highestRatedBooks":"Highest related books",
+    "@highestRatedBooks":{
+      "description":"most books which have highest related books"
+    },
+    "mostViewedArticles":"Most viewed articles",
+    "@mostViewedArticles":{
+      "description":"most articles which have highest visited"
+    },
+    "MostPopularArticles":"Most popular articles",
+    "@MostPopularArticles":{
+      "description":"most articles which have highest popular"
+    },
+    "latestArticles":"latest articles",
+    "@latestArticles":{
+      "description":"most articles which have latest update"
+    },
+    "highestRatedArticles":"Highest related articles",
+    "@highestRatedArticles":{
+      "description":"most articles which have highest related"
+    },
+    "panadolTests":"Panadol tests",
+    "@panadolTests":{
+      "description":"apps tests"
+    },
+    "myEducationalPaths":"My educational paths",
+    "@myEducationalPaths":{
+      "description":"paths of student educational"
+    },
+    "wishList":"Wish list",
+    "@wishList":{
+      "description":"List of student things who is need"
+    },
+    "saveSomethingForLater":"Save some thing for later",
+    "@saveSomethingForLater":{
+      "description":"some things which related to student for seeing it later"
+    },
+    "wishListWillDoPurpose":"Which list will do purpose",
+    "@wishListWillDoPurpose":{
+      "description":"options for student to do his purpose"
+    },
+    "browseCategories":"Browes categories",
+    "@browseCategories":{
+      "description":"categories for student to choose of them"
+    },
+    "myInstructionsSettings":"My instructions settings",
+    "@myInstructionsSettings":{
+      "description":"some of instructions settings"
+    },
+    "videoSettings":"Video Settings",
+    "@videoSettings":{
+      "description":"some of video settings"
+    },
+    "downloadOptions":"Some of download options",
+    "@downloadOptions":{
+      "description":"some of options to download video"
+    },
+    "vidoPlaybackOptions":"Video playback options ",
+    "@vidoPlaybackOptions":{
+      "description":"some of options to play video"
+    },
+    "coursesInstalled":"Courses installed",
+    "@coursesInstalled":{
+      "description":"some cources which have installed"
+    },
+    "accountSettings":"Account settings",
+    "@accountSettings":{
+      "description":"some of account settings"
+    },
+    "emailNotifications":"Email notifications",
+    "@emailNotifications":{
+      "description":"some of email notifications"
+    },
+    "applicationSettings":"Application settings",
+    "@applicationSettings":{
+      "description":"Some of application settings"
+    },
+    "accountLockout":"Account lockout",
+    "@accountLockout":{
+      "description":"to secure account"
+    },
+    "closeMyAccount":"Close my account",
+    "@closeMyAccount":{
+      "description":"to close account"
+    },
+    "support":"Support",
+    "@support":{
+      "description":"just word support"
+    },
+    "aboutPandol":"About panadol",
+    "@aboutPandol":{
+      "description":"about the application"
+    },
+    "technicalSupportAndAssistance":"Technical support and assistance",
+    "@technicalSupportAndAssistance":{
+      "description":"Technical support and assistance to help student in any problem"
+    },
+    "shareTheApp":"Share app",
+    "@shareTheApp":{
+      "description":"sharep app to increase knlowdge"
+    },
+    
+    "signOut":"SignOut",
+    "@signOut":{
+      "description":"just word signOut"
+    },
+    
+    "courseLectures":"Course lectures",
+    "@courseLectures":{
+      "description":"the content of cources"
+    },
+    
+    "courseDescription":"Course description",
+    "@courseDescription":{
+      "description":"preview content of cources"
+    },
+    
+    "relatedCourses,ArticlesAndBooks":"Related courses,articles and books",
+    "@relatedCourses,ArticlesAndBooks":{
+      "description":"addational contenet which related to course"
+    },
+    "instructor":"Instructor",
+    "@instructor":{
+      "description":"just word instructor"
+    },
+    "showMore":"Show more",
+    "@showMore":{
+      "description":"more content which related to course"
+    },
+    "viewProfile":"View Profile",
+    "@viewProfile":{
+      "description":"seeing profile of student"
+    },
+    "studentRates":"Student rates",
+    "@studentRates":{
+      "description":"rates of course"
+    },
+    "courseEvaluatio":"Course evaluatio",
+    "@courseEvaluatio":{
+      "description":"rating of course"
+    },
+    "startNow":"Start now",
+    "@startNow":{
+      "description":"start study the content"
+    },
+    "addToMyWishList":"Add to my whish list",
+    "@addToMyWishList":{
+      "description":"adding cources t to whish list"
+    },
+    "mostPopulartopics":"Most popular topics",
+    "@mostPopulartopics":{
+      "description":"most famous topics"
+    },
+    "mostFamousInstructor":"Most famous instructor",
+    "@mostFamousInstructor":{
+      "description":"most famous instructor on teaching"
+    },
+     "downloadViaWifi":"Download via Wifi",
+    "@downloadViaWifi":{
+      "description":"downloading video via wifi"
+    },
+     "playSoundInBackground":"Play sound in background",
+    "@playSoundInBackground":{
+      "description":"play video as a sound in background"
+    },
+     "automaticPlaybackOfNextLecture":"Automatic Playback Of Next Lecture",
+    "@automaticPlaybackOfNextLecture":{
+      "description":"start play video of next lectures automaticley"
+    },
+     "instructionsForUse":"instructions for user",
+    "@instructionsForUse":{
+      "description":"some instructions to help user"
+    },
+     "privacyPolicy":"Privacy policy",
+    "@PrivacyPolicy":{
+      "description":"some of Privacy Policy for application"
+    },
+    "intellectualPropertyPolicy":"Intellectual property policy",
+    "@intellectualPropertyPolicy":{
+      "description":"some of Intellectual property policy for application"
+    },
+     "aboutInstructor":"About instructor",
+    "@aboutInstructor":{
+      "description":"some of information about instructor"
+    },
+     "CoursesOfInstructor":"Courses of instructor",
+    "@CoursesOfInstructor":{
+      "description":"addational Courses of instructor "
+    },
+    
+    
+    
+    
+}
